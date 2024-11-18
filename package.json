@@ -1,8 +1,8 @@
 {
-  "name": "4learn-server-side",
+  "name": "learn-store-server",
   "version": "1.0.0",
   "main": "src/app.js",
-  "repository": "git@github.com:amjadmak/4learn-server-side.git",
+  "repository": "git@github.com:amjadmak/learn-store-T.git",
   "author": "AmjadMak",
   "scripts": {
     "start": "node src/app.js",
